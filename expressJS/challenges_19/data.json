@@ -1,16 +1,16 @@
 [
    {
-      "string": "heejra",
-      "integer": "2020",
-      "float": "01.2020",
-      "date": "2020-01-20",
-      "boolean": "true"
-   },
-   {
-      "string": "programer",
+      "string": "coder",
       "integer": "1111",
       "float": "1.21",
       "date": "2020-01-31",
       "boolean": "false"
+   },
+   {
+      "string": "heejra",
+      "integer": "1111",
+      "float": "1.21",
+      "date": "2020-01-31",
+      "boolean": "true"
    }
 ]

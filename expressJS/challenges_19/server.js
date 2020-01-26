@@ -67,6 +67,6 @@ const id = req.params.id;
     res.redirect('/')
 });
 
-app.listen(3000, () => {
-    console.log(`web ini berjalan di port 3000!`)
+app.listen(3001, () => {
+    console.log(`web ini berjalan di port 3001!`)
 });
